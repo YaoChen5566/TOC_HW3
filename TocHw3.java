@@ -2,7 +2,7 @@
 
 資訊104乙 F74006242 郭曜禎
 
-執行範例:java -jar TocHW3.jar http://www.datagarage.io/api/5365dee31bc6e9d9463a0057 大安區 復興南路 103
+執行範例:java -jar TocHw3.jar http://www.datagarage.io/api/5365dee31bc6e9d9463a0057 大安區 復興南路 103
 
 輸出範例:22546571
 
